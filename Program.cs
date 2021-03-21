@@ -7,6 +7,7 @@ namespace gt1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            int z = 0;
         }
     }
 }
