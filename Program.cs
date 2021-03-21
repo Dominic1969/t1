@@ -8,6 +8,8 @@ namespace gt1
         {
             Console.WriteLine("Hello World!");
             int z = 0;
+            int a = 0;
+// main
         }
     }
 }
