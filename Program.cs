@@ -8,7 +8,12 @@ namespace gt1
         {
             Console.WriteLine("Hello World!");
             int z = 0;
+
 // b1 branch
+//=======
+            int a = 0;
+// main
+
         }
     }
 }
